@@ -25,7 +25,7 @@ body {
     background-color: #E6ECF0;
     box-sizing: border-box;
     width: 85%;
-    height: 65vh;
+    height: 90vh;
     max-height: 450px;
     max-width: 830px;
     margin-left: auto;
@@ -168,6 +168,7 @@ body {
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
+    
 }
 
 .btn--gray:active,
